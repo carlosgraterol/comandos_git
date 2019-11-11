@@ -33,10 +33,21 @@
 	2. Luego de esto una vez ejecutados los comandos:
 		-> git init (Se ejecuta 1 sola vez dentro de la carpeta del proyecto)
 		-> git add .
-		-> git commit - m "Comentarios importantes para identificar la versión"
-
+		-> git commit -m "Comentarios importantes para identificar la versión"
+	
+	**CUANDO ES UN REPOSITORIO PÚBLICO
 	3. Apuntamos el proyecto al repositorio en la nube
 		-> git remote add origin "https://github.com/CarlosCastle/MIREPOSITORIO.git"
+		-> git push -u origin master
+
+		/*** Si aparece este mensaje: fatal: remote origin already exists
+		Ejecutas:
+
+		-> git remote rm origin
+
+	**CUANDO ES UN REPOSITORIO PRIVADO
+		Apuntamos el proyecto al repositorio en la nube
+		-> git remote add origin git@github.com:CarlosCastle/prueba.git
 		-> git push -u origin master
 
 		/*** Si aparece este mensaje: fatal: remote origin already exists
