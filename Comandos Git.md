@@ -65,3 +65,5 @@
 
 #Clonar un repositorio
 	-> git clone https://github.com/CarlosCastle/MIREPOSITORIO.git
+
+	¡Dios es bueno!
