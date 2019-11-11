@@ -67,3 +67,4 @@
 	-> git clone https://github.com/CarlosCastle/MIREPOSITORIO.git
 
 	¡Dios es bueno!
+	¡Dios es Grande y Poderoso!
