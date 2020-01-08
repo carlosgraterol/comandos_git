@@ -37,7 +37,7 @@
 	
 	**CUANDO ES UN REPOSITORIO PÚBLICO
 	3. Apuntamos el proyecto al repositorio en la nube
-		-> git remote add origin "https://github.com/CarlosCastle/MIREPOSITORIO.git"
+		-> git remote add origin "https://github.com/CarlosCastle/comandos_git/tree/ramacarlos"
 		-> git push -u origin master
 
 		/*** Si aparece este mensaje: fatal: remote origin already exists
@@ -72,4 +72,5 @@
 	¡Dios es bueno!
 	¡Dios es Grande y Poderoso!
 	¡Dios es bellisimo!
+	¡Gracias Señor!
 
