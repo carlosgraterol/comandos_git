@@ -66,5 +66,9 @@
 #Clonar un repositorio
 	-> git clone https://github.com/CarlosCastle/MIREPOSITORIO.git
 
+#CLONAR RAMA DE UN REPOSITORIO
+	-> git clone https://github.com/CarlosCastle/comandos_git -b nombrerama --single-branch
+
 	¡Dios es bueno!
 	¡Dios es Grande y Poderoso!
+
