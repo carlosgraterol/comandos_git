@@ -69,6 +69,12 @@
 #CLONAR RAMA DE UN REPOSITORIO
 	-> git clone https://github.com/CarlosCastle/comandos_git -b nombrerama --single-branch
 
+#AÑADIR CAMBIOS EN UNA RAMA
+	Ubicarse dentro del archivo
+	-> git add .
+	-> git commit -m "Comentario del cambio"
+	-> git push
+
 	¡Dios es bueno!
 	¡Dios es Grande y Poderoso!
 	¡Dios es bellisimo!
