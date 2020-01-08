@@ -71,4 +71,5 @@
 
 	¡Dios es bueno!
 	¡Dios es Grande y Poderoso!
+	¡Dios es bellisimo!
 
