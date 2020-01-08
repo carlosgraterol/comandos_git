@@ -73,4 +73,5 @@
 	¡Dios es Grande y Poderoso!
 	¡Dios es bellisimo!
 	¡Gracias Señor!
+	¡Te amo Rey!
 
