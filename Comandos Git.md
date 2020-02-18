@@ -1,8 +1,7 @@
 #Comprobar Versión Instalada
 	git --version
 
-#Vincular una carpeta con un repositorio git
-	git --init
+#Vincular una carpeta con un repositorio git --init
 
 	/***Este comando se ejecuta 1 sola vez por cada proyecto, de forma oculta
 	creara un repositorio y se debe ejecutar dentro de la carpeta que queremos vincular***/
